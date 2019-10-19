@@ -1,2 +1,2 @@
 GIT to rozproszony system kontroli wersji i prawie wszystkie operacje sa lokalne
-GIT przechwouje dane jako migawki
+GIT przechwouje dane jako migawki i tworzy sumy kontronlne przed ich zapisaniem"
